@@ -83,9 +83,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## netcat :
+![image](https://github.com/user-attachments/assets/a0ed2135-468c-49e1-95cd-3d79ba2deba0)
 
-
-![Screenshot 2024-09-16 114928](https://github.com/user-attachments/assets/11364b4f-350e-47eb-83d9-ae92a4b0d641)
 
 
 ## nmap :
