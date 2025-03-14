@@ -76,7 +76,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## whois :
-![Screenshot 2025-03-10 113219](https://github.com/user-attachments/assets/5703d5be-0855-44f6-9992-c1b78ca2129e)
+![image](https://github.com/user-attachments/assets/33e3d198-4001-4351-b412-5bfeaab4bb95)
+
 
 
 
