@@ -90,24 +90,23 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## nmap :
 
 
-
-![Screenshot 2024-09-16 115148](https://github.com/user-attachments/assets/ba99da48-c8cf-4520-b146-4e947dad3c40)
+![image](https://github.com/user-attachments/assets/2f0f0fd4-3b2d-4759-a22f-41dc029c502f)
 
 
 ## whatweb :
-![{43720B55-44D3-48A9-B467-80FA87712F86}](https://github.com/user-attachments/assets/91d2a083-a333-4bf9-9e90-7cfe0640b9f7)
-
+![image](https://github.com/user-attachments/assets/5c7238ce-a0c1-4381-99c6-4ec6f0063304)
 
 
 
 ## httprint :
+![image](https://github.com/user-attachments/assets/329999a6-0018-4b17-aa31-0e6069b34a6e)
 
-![Screenshot 2024-09-16 120421](https://github.com/user-attachments/assets/0bae6c46-7f4d-4deb-8be1-4d8130d17b88)
 
 
 
 ## ICMP traceroute :
-![Screenshot 2025-03-10 114031](https://github.com/user-attachments/assets/bf0adcd0-25c6-4798-a433-44004d625fd9)
+![image](https://github.com/user-attachments/assets/bf3ea953-df14-4630-84df-8ef82b3c3e56)
+
 
 
 
@@ -115,11 +114,13 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## TCP traceroute :
-![Screenshot 2025-03-10 114142](https://github.com/user-attachments/assets/c865802a-96d5-4412-be78-ca40c08d6cf4)
+![image](https://github.com/user-attachments/assets/48b7f21b-f931-4092-8a7a-3a0a9f33a53d)
+
 
 
 ## UDP traceroute :
-![{510AF13A-950D-46F4-BA9F-977B1DF43D25}](https://github.com/user-attachments/assets/7b4f7d85-be2b-4221-afed-2ee39d3c3ecb)
+![image](https://github.com/user-attachments/assets/1a74e932-6d7f-423f-b87b-11b7bb9649f8)
+
 
 
 
@@ -129,72 +130,3 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 The information gathering techniques tools/procedure were  identified successfully
 
 
-## Finding Hosting Company :
-![Screenshot 2025-03-07 134454](https://github.com/user-attachments/assets/46baa95f-781d-4a46-bac6-f8a6ebe34544)
-
-
-
-
-
-## History of the website :
-![Screenshot 2025-03-07 134445](https://github.com/user-attachments/assets/61bd2da3-f5bf-4bed-a206-c45d5254ba00)
-
-
-
-## ping command :
-![Screenshot 2025-03-10 113145](https://github.com/user-attachments/assets/61649992-1fec-4c62-be09-ee2d6256e77f)
-
-
-
-## whois :
-![Screenshot 2025-03-10 113219](https://github.com/user-attachments/assets/5703d5be-0855-44f6-9992-c1b78ca2129e)
-
-
-
-
-## netcat :
-
-
-![Screenshot 2024-09-16 114928](https://github.com/user-attachments/assets/11364b4f-350e-47eb-83d9-ae92a4b0d641)
-
-
-## nmap :
-
-
-
-![Screenshot 2024-09-16 115148](https://github.com/user-attachments/assets/ba99da48-c8cf-4520-b146-4e947dad3c40)
-
-
-## whatweb :
-![{43720B55-44D3-48A9-B467-80FA87712F86}](https://github.com/user-attachments/assets/91d2a083-a333-4bf9-9e90-7cfe0640b9f7)
-
-
-
-
-## httprint :
-
-![Screenshot 2024-09-16 120421](https://github.com/user-attachments/assets/0bae6c46-7f4d-4deb-8be1-4d8130d17b88)
-
-
-
-## ICMP traceroute :
-![Screenshot 2025-03-10 114031](https://github.com/user-attachments/assets/bf0adcd0-25c6-4798-a433-44004d625fd9)
-
-
-
-
-
-
-## TCP traceroute :
-![Screenshot 2025-03-10 114142](https://github.com/user-attachments/assets/c865802a-96d5-4412-be78-ca40c08d6cf4)
-
-
-## UDP traceroute :
-![{510AF13A-950D-46F4-BA9F-977B1DF43D25}](https://github.com/user-attachments/assets/7b4f7d85-be2b-4221-afed-2ee39d3c3ecb)
-
-
-
-
-
-## RESULT:
-The information gathering techniques tools/procedure were  identified successfully
