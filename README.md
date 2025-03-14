@@ -70,7 +70,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## ping command :
-![Screenshot 2025-03-10 113145](https://github.com/user-attachments/assets/61649992-1fec-4c62-be09-ee2d6256e77f)
+![image](https://github.com/user-attachments/assets/c93c97e5-38bd-4cc2-ac39-6492d33b85b5)
+
 
 
 
